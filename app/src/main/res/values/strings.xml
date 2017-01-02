@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learning_OpenGL</string>
+    <string name="Service_Name">openGL Wallpaper</string>
+    <string name="wallpaper_description">openGL Wallpaper</string>
+</resources>
